@@ -1,0 +1,11 @@
+{
+    "name": "rolandtoth/admin-on-steroids",
+    "type": "pw-module",
+    "authors": [
+        {
+            "name": "Roland Toth",
+            "email": "contact@rolandtoth.hu"
+        }
+    ],
+    "require": {}
+}
